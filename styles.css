@@ -1,0 +1,24 @@
+#add-pac-button {
+    position: absolute;
+    top: 50px;
+    left: 200px;
+}
+
+#start-button {
+    position: absolute;
+    top: 50px;
+    left: 300px;
+}
+
+#pacmen-box {
+    position: absolute;
+    top: 100px;
+    left: 200px;
+    height: 400px;
+    width: 600px;
+    border: solid lightgrey 10px;
+} 
+
+body{
+    background-color:black;
+}
