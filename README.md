@@ -4,8 +4,8 @@
 
 **Instructions on how to run on your machine:**  
 To run this program you can do one of two things:
-1. Click on this link to run the program.
-2. Download the files in this repository locally, and then load the index.html file into a browser.
+1. Click on this link to run the program:  [PacMen demo](https://btaney78.github.io/Pacmen-Exercise/)
+3. Download the files in this repository locally, and then load the index.html file into a browser.
 
 **Roadmap for future improvements:**
 By June 30th:
