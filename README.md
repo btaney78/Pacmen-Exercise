@@ -5,7 +5,7 @@
 **Instructions on how to run on your machine:**  
 To run this program you can do one of two things:
 1. Click on this link to run the program:  [PacMen demo](https://btaney78.github.io/Pacmen-Exercise/)
-3. Download the files in this repository locally, and then load the index.html file into a browser.
+3. Download the following files in this repository: index.html, styles.css, pacmen.js, and all the images in the 'images' folder. Save them locally, and then load the index.html file into an Internet browser (Chrome, etc.).
 
 **Roadmap for future improvements:**
 By June 30th:
